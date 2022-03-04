@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/TroJanzHEX/Unlimited-Filter-Bot?style=social">
+    <img src="https://img.shields.io/github/stars/Sgtiger22/Unlimited-Filter-Bot?style=social">
 
   </a>
   
